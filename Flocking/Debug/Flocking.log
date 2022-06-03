@@ -1,0 +1,8 @@
+﻿  Simulator.cpp
+C:\Users\tommy\source\repos\Flocking\Flocking\Simulator.cpp(87,48): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tommy\source\repos\Flocking\Flocking\Simulator.cpp(91,24): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\tommy\source\repos\Flocking\Flocking\Simulator.cpp(96,48): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tommy\source\repos\Flocking\Flocking\Simulator.cpp(102,48): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tommy\source\repos\Flocking\Flocking\Simulator.cpp(108,48): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tommy\source\repos\Flocking\Flocking\Simulator.cpp(114,48): warning C4018: '<': signed/unsigned mismatch
+  Flocking.vcxproj -> C:\Users\tommy\source\repos\Flocking\Debug\Flocking.exe
